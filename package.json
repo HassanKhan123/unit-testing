@@ -1,0 +1,24 @@
+{
+  "name": "unit-testing",
+  "version": "1.0.0",
+  "description": "Unit Testing",
+  "main": "textUtilities.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HassanKhan123/unit-testing.git"
+  },
+  "author": "Hassan Khan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HassanKhan123/unit-testing/issues"
+  },
+  "homepage": "https://github.com/HassanKhan123/unit-testing#readme"
+}
