@@ -8,8 +8,10 @@ function checkForShip(player,coords){
             return (actualCoords[0] === coords[0]) && (actualCoords[1] === coords[1])
         })[0]
 
-        if(!shipPresent) return false
+        if(shipPresent) return true
+       
     }
+    return false
 }
 
 module.exports.checkForShip = checkForShip;
